@@ -1,4 +1,5 @@
 {
+  "homepage": "https://maulikdavra.github.io/React-LibraryProject/",
   "name": "react-library",
   "version": "0.1.0",
   "private": true,
@@ -48,10 +49,9 @@
       "last 1 safari version"
     ]
   },
+  
   "devDependencies": {
     "@types/react-router-dom": "^5.3.3"
-  },
-  {
-  "homepage": "https://maulikdavra.github.io/React-LibraryProject/"
   }
+
 }

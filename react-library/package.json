@@ -1,6 +1,5 @@
 {
-  "homepage": "https://maulikdavra.github.io/React-LibraryProject/",
-  "name": "react-library",
+a  "name": "react-library",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
